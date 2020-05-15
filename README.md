@@ -1,7 +1,3 @@
 New changes done by developer
-
-some more changes dondddddddeddd
-
-
-cccccc
-
+Please update it in jenkins master
+Master
